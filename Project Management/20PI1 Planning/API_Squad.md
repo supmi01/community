@@ -7,7 +7,7 @@
 
 ## Implement API ML changes that will simplify installation and supportability of the upcoming LTS release.
 * [Change package and config properties prefixes to org.zowe.apiml prefix](https://github.com/zowe/api-layer/issues/52)
-* [Add Endpoint to show Zowe version](https://github.com/zowe/api-layer/issues/345)
+* [Add Endpoint to show Zowe version](https://github.com/zowe/api-layer/issues/345) (December Zoweian)
 <!---
 * [Import z/OSMF public certificate without need to access to z/OSMF keyring](https://github.com/zowe/api-layer/issues/224)
 * [Enable "Try it out" and "Authorize" buttons in API Catalog](https://github.com/zowe/api-layer/issues/258)
@@ -16,11 +16,11 @@
 -->
 
 ## Enhancements to API ML on-boarding processes
-* [Use Java enabler as a base for Spring Boot enablers](https://github.com/zowe/api-layer/issues/382)
+* [Use Java enabler as a base for Spring Boot enablers](https://github.com/zowe/api-layer/issues/382) (December Zoweian)
 * [Modify Catalog and Gateway to support new enabler versions](https://github.com/zowe/api-layer/issues/383)
 
 ## Improved Logging - Eliminate Reoccurring Messages
-* [Suppress interaction messaging between API ML components during START UP](https://github.com/zowe/api-layer/issues/371)
+* [Suppress interaction messaging between API ML components during START UP](https://github.com/zowe/api-layer/issues/371) (December Zoweian)
 * [Stop repetitive service status log messages](https://github.com/zowe/api-layer/issues/372)
 
 ## Security Related Efforts
